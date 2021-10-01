@@ -1,0 +1,50 @@
+body{
+    line-height: 140%;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    font-size: 1.4rem;
+}
+
+    h1{
+        margin-top: 30px;
+        text-align: center;
+        font-size: 4rem;
+        text-shadow: 2px 2px gray;
+    }
+    img{
+        max-width: 649px;
+        max-height: 328;
+    border: 5px outset gray;
+    display: block;
+    margin-right: 10px;
+    margin-left: auto;
+    position: absolute;
+    right: 0%;
+    top: 70%;
+}
+.desc{
+    opacity: 75%;
+    color: gray;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-size: 0.97rem;
+}
+
+
+h2{
+    text-decoration:underline;
+}
+.Intro{
+    background-color: white;
+  width: 1050px;
+  border: 15px groove;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.IT{
+     margin-top: 5%;
+    }
+   

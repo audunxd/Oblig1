@@ -1,0 +1,70 @@
+body{
+    line-height: 140%;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    background-color: lightgray;
+}
+h1{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 4rem;
+    text-shadow: 2px 2px gray;
+   
+}
+figcaption{
+    text-align: center;
+    opacity: 50%;
+    font-size: 75%;
+}
+h2{
+    text-decoration:underline;
+}
+img{
+    max-width: 649px;
+    max-height: 328;
+border: 5px outset black;
+display: block;
+margin-right: auto;
+margin-left: auto;
+}
+.Arcitecture{
+    background-color: white;
+  width: 1050px;
+  border: 15px groove;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
+.Art{
+    background-color: white;
+  width: 1050px;
+  border: 15px groove;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
+.Racing{
+    background-color: white;
+  width: 1050px;
+  border: 15px groove;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
+.Intro{
+    margin-bottom: 20px;
+    background-color: white;
+    width: 1060px;
+    border: 10px groove;
+    margin-right: auto;
+    margin-left: auto;
+}
+footer{
+    background-color: white;
+  width: 1050px;
+  border: 15px groove;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
